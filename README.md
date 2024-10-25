@@ -1,6 +1,6 @@
 # SUTD Advanced Topics in Optimisation project 
 
-This is the repository containing the files for group 1's project in **40.302 Advanced Topics in Optimisation**
+This repository contains the files for group 1's project in **40.302 Advanced Topics in Optimisation**.
 
 ## Running the project
 

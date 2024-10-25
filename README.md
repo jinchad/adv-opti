@@ -13,3 +13,4 @@ Follow these steps to run the project:
 ```
 pip install requirements.txt
 ```
+4. Next, navigate to your local directory and run `adv_opti_code.ipynb` to run the project. 
